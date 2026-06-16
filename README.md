@@ -1,9 +1,10 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/04b8c6a8-56ea-4228-8224-ece25c2f04da" alt="Github banner" width="100%" >
 </p>
+
 # Hi, I'm Iswarya Selvakumar 👋
 
-### Data Engineer | PySpark | Databricks | SQL | Python | AWS | Power BI
+### Data Engineer | Building Scalable ETL Pipelines & Lakehouse Solutions
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -11,7 +12,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Passionate Data Engineer with hands-on experience in building ETL pipelines, transforming large datasets using PySpark, and implementing Lakehouse architectures on Databricks.
+Passionate Data Engineer with hands-on experience in designing and building ETL pipelines, transforming large-scale datasets using PySpark, and implementing Lakehouse architectures on Databricks.
+
+Skilled in SQL, Python, AWS Glue, and data visualization tools such as Power BI and Tableau. Focused on delivering scalable, reliable, and business-driven data solutions.
 
 Currently expanding my expertise in cloud-based data engineering and modern data platforms.
 
@@ -45,26 +48,13 @@ Currently expanding my expertise in cloud-based data engineering and modern data
 
 ## 📂 Featured Projects
 
-### 🏆 E-Commerce Lakehouse on Databricks
-- Implemented Bronze, Silver, and Gold layers
-- Built scalable ETL pipelines using PySpark
-- Utilized Delta Lake for optimized storage and processing
-- Followed Medallion Architecture best practices
+### 🏆 [E-Commerce Lakehouse on Databricks](https://github.com/iswarya-selvakumar/ecommerce-lakehouse-databricks)
 
-### 📊 Retail Sales Data Analysis Using SQL
-- Performed advanced SQL analysis
-- Used joins, CTEs, window functions, and aggregations
-- Generated business insights from sales data
+### 📊 [Retail Sales Data Analysis Using SQL](https://github.com/iswarya-selvakumar/Retail-Sales-Data-Analysis-Using-SQL)
 
-### 🛒 Customer Shopping Behaviour Analysis
-- Analyzed customer purchasing patterns
-- Identified customer segments and trends
-- Created business-focused insights
+### 🛒 [Customer Shopping Behaviour Analysis](https://github.com/iswarya-selvakumar/Customer-Shopping-Behaviour-Analysis)
 
-### 📈 Data Analysis & Visualization Project
-- Cleaned and transformed data
-- Built visual reports and dashboards
-- Derived actionable business insights
+### 📈 [Data Analysis & Visualization Project](https://github.com/iswarya-selvakumar/data-analyse-viz-project)
 
 ---
 
@@ -78,6 +68,6 @@ Currently expanding my expertise in cloud-based data engineering and modern data
 
 ## 📫 Connect With Me
 
-LinkedIn:www.linkedin.com/in/iswarya-selvakumar
+[LinkedIn](https://www.linkedin.com/in/iswarya-selvakumar)
 
 Open to Data Engineer opportunities.
