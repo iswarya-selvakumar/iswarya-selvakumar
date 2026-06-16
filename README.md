@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/55447f4d-cf30-405b-97a5-a99cd241dd42" alt="Github banner" width="100%" >
+<img src="https://github.com/user-attachments/assets/347c6582-e639-4134-84ae-e12907d3f3d3" alt="Github banner" width="100%" >
 </p>
 
 # Hi, I'm Iswarya Selvakumar 👋
