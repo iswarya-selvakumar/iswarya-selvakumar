@@ -37,7 +37,7 @@ Currently expanding my expertise in cloud-based data engineering and modern data
 - AWS Glue
 - AWS S3
 - AWS IAM
-- Aws Athena
+- AWS Athena
 - ADLS Gen2
 - GitHub
 
