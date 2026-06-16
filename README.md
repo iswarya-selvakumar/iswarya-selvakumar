@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/04b8c6a8-56ea-4228-8224-ece25c2f04da" alt="Github banner" width="100%" >
+</p>
 # Hi, I'm Iswarya Selvakumar 👋
 
 ### Data Engineer | PySpark | Databricks | SQL | Python | AWS | Power BI
