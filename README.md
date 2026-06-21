@@ -51,6 +51,8 @@ Currently expanding my expertise in cloud-based data engineering and modern data
 
 ## 📂 Featured Projects
 
+### 🚕 [NYC Yellow Taxi Analytics on AWS](https://github.com/iswarya-selvakumar/nyc-yellow-taxi-analytics.git)
+
 ### 🏆 [E-Commerce Lakehouse on Databricks](https://github.com/iswarya-selvakumar/ecommerce-lakehouse-databricks)
 
 ### 📊 [Retail Sales Data Analysis Using SQL](https://github.com/iswarya-selvakumar/Retail-Sales-Data-Analysis-Using-SQL)
